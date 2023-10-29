@@ -1,0 +1,10 @@
+*.bundle
+*.png
+*.env
+
+/venv
+/.venv
+/StampMaster.json
+/def.full.txt
+/def.new.txt
+/*.ipynb
